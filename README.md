@@ -2,6 +2,10 @@
 
     > Learning C# as my T-shaped learning.
 
+Primary purpose of making two repos is that i wanted to check how C# works with and without template.
+Conclusion: Not much difference, you can run C# project even without template.
+
+## I wanted something that AI Vibe coders cant do easily and I found it, its C#.
 ## Learnings Today
 - I looked this Csharpier formatter, It formats C# code because traditional Prettier doesn't format C# code.
 - But it doesn't work as simply as Prettier ("Prettier" just works out of the box directly when you install the extension and change the default formatter in "User Settings").
